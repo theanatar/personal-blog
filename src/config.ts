@@ -25,11 +25,11 @@ export const NAV_ITEMS: NavItems = {
 
 export const SITE = {
     // Your site's detail?
-    name: 'Ink',
-    title: 'Astro - Ink',
-    description: 'Crisp, minimal, personal blog theme for Astro',
-    url: 'https://astro-ink.vercel.app',
-    githubUrl: 'https://github.com/one-aalam/astro-ink',
+    name: 'Andrew Tarabin',
+    title: 'Andrew Tarabin',
+    description: 'Welcome to my blog',
+    url: 'https://andrewtarabin.com',
+    githubUrl: 'https://github.com/theanatar',
     listDrafts: true
     // description ?
 }
