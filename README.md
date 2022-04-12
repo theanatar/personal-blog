@@ -1,1 +1,1 @@
-# My Personal blog and project playground
+# My Personal blog and projects playground
